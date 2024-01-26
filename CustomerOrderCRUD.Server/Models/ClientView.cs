@@ -1,6 +1,4 @@
-﻿using CustomerOrderCRUD.Server.Models;
-
-namespace CustomerOrderCRUD.Server.Controllers
+﻿namespace CustomerOrderCRUD.Server.Models
 {
     public class ClientView
     {

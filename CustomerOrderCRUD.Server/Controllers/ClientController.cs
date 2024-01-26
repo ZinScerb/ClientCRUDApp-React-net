@@ -84,7 +84,7 @@ namespace CustomerOrderCRUD.Server.Controllers
                 }
                 else
                 {
-                    throw;
+                    return BadRequest();
                 }
             }
 
