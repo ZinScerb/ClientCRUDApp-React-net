@@ -79,9 +79,9 @@ class TableRow extends Component {
     }
 }
 
-export default TableRow;
-
 TableRow.propTypes = {
     obj: PropTypes.object,
     type: PropTypes.string
 }
+
+export default TableRow;

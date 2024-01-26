@@ -48,7 +48,6 @@ export default class ClientForm extends Component {
         const joined = [year, month, day].join('-');
 
         return joined;
-
     }
 
     validateForm(formData) {

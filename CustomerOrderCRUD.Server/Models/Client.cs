@@ -1,5 +1,3 @@
-using Microsoft.EntityFrameworkCore;
-
 namespace CustomerOrderCRUD.Server.Models
 {
     public enum GenderType

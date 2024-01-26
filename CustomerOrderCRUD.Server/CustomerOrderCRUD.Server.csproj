@@ -33,9 +33,4 @@
     </ProjectReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DAL\" />
-    <Folder Include="Data\" />
-  </ItemGroup>
-
 </Project>
