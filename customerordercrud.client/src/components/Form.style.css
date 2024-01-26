@@ -1,0 +1,17 @@
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.btn {
+    margin-top: 1rem;
+}
+
+.buttonCell {
+    width: 1rem;
+}
+
+
+.buttonCell div {
+    display: flex;
+    gap: 1rem;
+}
